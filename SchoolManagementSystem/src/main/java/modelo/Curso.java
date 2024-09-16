@@ -1,4 +1,4 @@
-package gestorAcademico;
+package modelo;
 
 public class Curso {
 
